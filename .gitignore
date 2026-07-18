@@ -1,0 +1,9 @@
+# Python/Jupyter
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.DS_Store
+
+# Word and PDF files
+*.docx
+*.pdf
